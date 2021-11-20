@@ -1,0 +1,13 @@
+|-------------|----------|-------------|---------------------------|
+|  NAMESPACE  |   NAME   | TARGET PORT |            URL            |
+|-------------|----------|-------------|---------------------------|
+| integration | frontend |          80 | http://192.168.49.2:32076 |
+|-------------|----------|-------------|---------------------------|
+* Starting tunnel for service frontend.
+|-------------|----------|-------------|------------------------|
+|  NAMESPACE  |   NAME   | TARGET PORT |          URL           |
+|-------------|----------|-------------|------------------------|
+| integration | frontend |             | http://127.0.0.1:55913 |
+|-------------|----------|-------------|------------------------|
+* Opening service integration/frontend in default browser...
+! Because you are using a Docker driver on windows, the terminal needs to be open to run it.
